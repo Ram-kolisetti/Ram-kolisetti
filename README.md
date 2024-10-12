@@ -9,7 +9,7 @@
   - **Mobile Development:** Flutter, Android (Java, Kotlin)
   - **Other Languages:** C, C++, Python, R, Shell scripting
 - 💞️ I’m looking to collaborate on projects in full-stack development, cloud computing, and data analytics.
-- 📫 How to reach me: ram.kolisetti@example.com
+- 📫 How to reach me: kolisettiramkumar@gmai.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love exploring how emerging technologies like IoT and AI can be integrated into everyday solutions to create smarter, more sustainable environments.
 
