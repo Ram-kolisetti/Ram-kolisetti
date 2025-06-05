@@ -68,12 +68,12 @@
 ### 📈 Stats & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ram-Kolisetti&show_icons=true&theme=tokyonight&count_private=true" width="48%"/>
-  <img src="https://streak-stats.demolab.com?user=Ram-Kolisetti&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ram-kolisetti&show_icons=true&theme=tokyonight&count_private=true" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=ram-kolisetti&theme=tokyonight" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ram-Kolisetti&theme=monokai" width="90%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ram-kolisetti&theme=monokai" width="90%"/>
 </p>
 
 ---
