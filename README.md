@@ -57,7 +57,7 @@
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
 
 #### 📊 Data Science / ML
-![Python](https://img.shields.io/badge/Pandas-%23150458.svg?&style=flat&logo=pandas&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?&style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?&style=flat&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?&style=flat&logo=scikit-learn&logoColor=white)
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?&style=flat&logo=r&logoColor=white)
@@ -78,6 +78,16 @@
 
 ---
 
+### 👾 Pac-Man Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ram-kolisetti/ram-kolisetti/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ram-kolisetti/ram-kolisetti/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/ram-kolisetti/ram-kolisetti/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
 ### 🔗 Let's Connect
 
 - 📬 **Email**: kolisettiramkumar@gmail.com  
@@ -91,4 +101,3 @@
 
 > I connect **software logic** to **hardware reality** – whether it's building a dashboard, an app, or a sensor-based IoT system.  
 > 🔥 Let’s build something **impactful and scalable** together!
-
