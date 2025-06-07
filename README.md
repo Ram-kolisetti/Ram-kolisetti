@@ -72,9 +72,6 @@
   <img src="https://streak-stats.demolab.com?user=ram-kolisetti&theme=tokyonight" width="48%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ram-kolisetti&theme=monokai" width="90%"/>
-</p>
 
 ---
 
